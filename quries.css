@@ -1,0 +1,93 @@
+
+
+@media only  screen and  (max-width:1200){
+
+}
+    
+
+
+
+@media only screen and(max-width: 1023px)
+{
+
+}
+
+
+/*small phones to 481px*/
+@media only screen and(max-width: 768px)
+{
+
+}
+
+/*Smallaphones*/
+@media only screen and (max-width:720px)
+{
+    .defineme
+    {
+        font-size: 18px;
+    }
+    .intro-name  {
+        height: 700px;
+        width: 100%;
+    }
+    .circle
+{
+    height: 175px;
+    width: 175px;
+    border-radius: 50%;
+  
+}
+
+    .name{
+        font-size: 24px;
+    }
+    .sk{
+        font-size: 26px;
+       
+    }
+    .side{
+        font-size: 22px;
+        margin:0px;
+    }
+    .listit{
+        font-size: 18px;
+        margin:15px;
+    }
+    .skills{
+        height: 700px;
+    }
+    #edu{
+        font-size: 10px;
+        padding: 3px;
+    }
+   
+  .proj{
+      height: 900px;
+  }
+
+#edu td, #edu th{
+    border: 2px solid #ddd;
+    
+    padding: 2px;
+    text-align: center;
+}
+    .education {
+        height: 700px;
+    }
+    .intro-glassbg{
+        background:white;
+        min-height:70vh;
+        width: 98%;
+        border-radius: 2rem;
+        background:linear-gradient(to right bottom,rgba(255,255,255,0.7),rgba(255,255,255,0.3));
+       
+    }
+    .cer{font-size: 22px;}
+    .listcer{font-size: 16px;}
+    .projhh{font-size: 22px;margin: 15px;padding-left: 100px;}
+    .projh{font-size: 18px;}
+    .projp{font-size: 14px;}
+    .contactform{
+        font-size: 14px;
+    }
+}
